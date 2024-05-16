@@ -16,7 +16,7 @@ from django.utils.decorators import method_decorator
 
 # Create your views here.
 # Home Page 
-@login_required
+# @login_required
 def home(request):
     totalitem=0
     wishitem=0

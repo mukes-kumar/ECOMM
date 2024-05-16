@@ -1,3 +1,9 @@
+
+function myFunction() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+ }
+
 $('#slider1, #slider2, #slider3').owlCarousel({
     loop: true,
     margin: 20,
