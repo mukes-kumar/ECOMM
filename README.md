@@ -9,8 +9,12 @@ CSS, JavaScript, Python Django Integrated with the Fake Store API to
 fetch product data dynamically.  Implemented user login - logout
 authentication and also implemented product listing, detailed product
 view, and search functionality . Created a shopping cart with add-tocart and remove-from-cart feature</p>
-
+<h3>First page Login Authemtication page </h3>
 <img width="959" alt="image" src="https://github.com/mukes-kumar/ECOMM/assets/145520335/2d5e29b3-a215-4b84-8f7c-298ead769f4c">
+<h3>After Login page , you go on home page </h3>
+<p>you can click profile navbar then you have many options show <h5>1. Order_item</h5>
+<h5>2. Change_password</h5>
+<h5>3. Log-Out</h5></p>
 <img width="955" alt="image" src="https://github.com/mukes-kumar/ECOMM/assets/145520335/0daab815-30e6-4fad-a62b-cafb51e2cb4c">
 
 
