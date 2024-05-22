@@ -1,7 +1,19 @@
 # e-commerce application project:-
 ### skills use python , Django framework , Html. Css , Javascript, Bootstrap
 > This web app is dynamic website to bulid in django framework.
-> 
+
+<h1>Functionality of my project :- </h1>
+<p>Tools:- Visual Studio Code </p>
+<p>Description:-Developed an E-commerce web application using HTML,
+CSS, JavaScript, Python Django Integrated with the Fake Store API to
+fetch product data dynamically.  Implemented user login - logout
+authentication and also implemented product listing, detailed product
+view, and search functionality . Created a shopping cart with add-tocart and remove-from-cart feature</p>
+
+<img width="959" alt="image" src="https://github.com/mukes-kumar/ECOMM/assets/145520335/2d5e29b3-a215-4b84-8f7c-298ead769f4c">
+<img width="955" alt="image" src="https://github.com/mukes-kumar/ECOMM/assets/145520335/0daab815-30e6-4fad-a62b-cafb51e2cb4c">
+
+
 <h1>Project Directories :- </h1>
 <p> 1. File name :- ECOMM</p>
 <p>2. Create project inside file ECOMM</p>
@@ -16,6 +28,8 @@
 <p>2. template :- Create a template file inside the Django app . In which all HTML files are created. To write HTML code in Django, a file with the name template is always created.
 </p>
 <p>3. static :- In Django there is always a file named static. In which css and JavaScript files are created and image file to store the app base image.</p>
+
+<h1>Django project base on MVT articheture means- Model View Template </h1>
 
 
 
