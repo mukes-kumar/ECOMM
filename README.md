@@ -9,13 +9,24 @@ CSS, JavaScript, Python Django Integrated with the Fake Store API to
 fetch product data dynamically.  Implemented user login - logout
 authentication and also implemented product listing, detailed product
 view, and search functionality . Created a shopping cart with add-tocart and remove-from-cart feature</p>
-<h3>First page Login Authemtication page </h3>
+<h3>First page Registration Authemtication page </h3>
+<h3>Then you can login </h3>
 <img width="959" alt="image" src="https://github.com/mukes-kumar/ECOMM/assets/145520335/2d5e29b3-a215-4b84-8f7c-298ead769f4c">
 <h3>After Login page , you go on home page </h3>
 <p>you can click profile navbar then you have many options show <h5>1. Order_item</h5>
 <h5>2. Change_password</h5>
 <h5>3. Log-Out</h5></p>
-<img width="955" alt="image" src="https://github.com/mukes-kumar/ECOMM/assets/145520335/0daab815-30e6-4fad-a62b-cafb51e2cb4c">
+<img width="955" alt="image" src="https://github.com/mukes-kumar/ECOMM/assets/145520335/6f344671-54b8-4814-9cbb-76e7cdcb5bb9">
+
+<h3>Cart Item Add:-</h3>
+<img width="959" alt="image" src="https://github.com/mukes-kumar/ECOMM/assets/145520335/061ec461-34dc-40f9-a511-aee7b02e886e">
+<h3>Place Order :- you select address options for delivery the products</h3>
+<img width="952" alt="image" src="https://github.com/mukes-kumar/ECOMM/assets/145520335/dfe59f1b-1ea9-4fa0-a0bb-0df9f37183e0">
+
+<h3>Payment Method :- you can payment in  for order products </h3>
+<img width="959" alt="image" src="https://github.com/mukes-kumar/ECOMM/assets/145520335/7d462f68-4bb4-412a-856c-17ca1afcc338">
+
+
 
 
 <h1>Project Directories :- </h1>
